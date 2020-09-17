@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: AllSpark
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Eric
+Implementation-Vendor-Id: com.allspark
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_45
+Main-Class: ${start-class}
+
